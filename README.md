@@ -64,19 +64,14 @@ Informações adicionais que ajudam a IA a compreender melhor a solicitação.
 
  # Prompts Reutilizáveis
 
- Explicação para Iniciantes
 Explique o tema [assunto] como se eu fosse um estudante iniciante.
 
- Resumo
 Resuma o conteúdo em tópicos principais.
 
-Comparação
 Compare [conceito A] e [conceito B], destacando diferenças e aplicações.
 
-Exercícios
 Crie cinco questões sobre [tema] com gabarito comentado.
 
-Revisão
 Monte um guia de revisão rápida sobre.
 
 
