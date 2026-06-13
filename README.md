@@ -1,28 +1,27 @@
  notebooklm_estudos_i.a
-  Caderno de Estudos em Inteligência Artificial com NotebookLM
+ # Caderno de Estudos em Inteligência Artificial com NotebookLM
 
-  Sobre o Projeto
+  # Sobre o Projeto
 Este repositório foi desenvolvido como parte do desafio da DIO, com o objetivo de explorar a Inteligência Artificial como ferramenta de aprendizagem ativa utilizando o NotebookLM.
 O projeto reúne pesquisas, fontes de estudo, experimentos com prompts e um miniguia de revisão, permitindo consolidar conhecimentos e criar materiais reutilizáveis para consultas futuras.
 
-   Objetivos
+   # Objetivos
 * Compreender os fundamentos da Inteligência Artificial;
 * Aprender conceitos de Engenharia de Prompts;
 * Explorar o NotebookLM como ferramenta de estudo;
 * Desenvolver pensamento crítico na utilização de IAs generativas;
 * Criar uma base de conhecimento organizada para futuras revisões.
 
-  Tema Escolhido
+ # Tema Escolhido
 Engenharia de Prompts e utilização da Inteligência Artificial como ferramenta de aprendizagem.
 
 
- Fontes de Pesquisa
+# Fontes de Pesquisa
 1. OpenAI Documentation (https://platform.openai.com/docs)
-[2. Google AI for Developers](https://platform.openai.com/docs/guides/prompt-engineering)
-[3. Machine Learning Crash Course - Google](https://ai.google.dev/)
-[4. Microsoft Learn AI](https://ai.google.dev/gemini-api/docs/prompting-intro)
-[5. IBM - What is Artificial Intelligence?
-](https://learn.microsoft.com/training/ai/)
+2. Google AI for Developers](https://platform.openai.com/docs/guides/prompt-engineering)
+3. Machine Learning Crash Course - Google](https://ai.google.dev/)
+4. Microsoft Learn AI](https://ai.google.dev/gemini-api/docs/prompting-intro)
+5. IBM - What is Artificial Intelligence?(https://learn.microsoft.com/training/ai/)
 ---
 
 ******* Engenharia de Prompts e "Cicatrizes"
@@ -50,7 +49,7 @@ Quanto melhor o contexto fornecido, maior tende a ser a qualidade das respostas 
 
 ---
 
- Glossário
+## Glossário
 # IA (Inteligência Artificial)
 Tecnologia capaz de executar tarefas que normalmente exigiriam inteligência humana.
 # LLM (Large Language Model)
@@ -77,5 +76,5 @@ Crie cinco questões sobre [tema] com gabarito comentado.
 Monte um guia de revisão rápida sobre.
 
 
- Conclusão
+# Conclusão
 O estudo demonstrou a importância da Engenharia de Prompts para melhorar a interação com modelos de Inteligência Artificial e evidenciou como o NotebookLM pode ser utilizado como uma poderosa ferramenta de aprendizagem e organização do conhecimento.
