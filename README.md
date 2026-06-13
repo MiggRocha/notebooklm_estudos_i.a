@@ -62,17 +62,21 @@ Unidade básica utilizada pelo modelo para processar textos.
 Informações adicionais que ajudam a IA a compreender melhor a solicitação.
 ---
 
-  Prompts Reutilizáveis
+ # Prompts Reutilizáveis
 
-# Explicação para Iniciantes
+ Explicação para Iniciantes
 Explique o tema [assunto] como se eu fosse um estudante iniciante.
-# Resumo
+
+ Resumo
 Resuma o conteúdo em tópicos principais.
-# Comparação
+
+Comparação
 Compare [conceito A] e [conceito B], destacando diferenças e aplicações.
-# Exercícios
+
+Exercícios
 Crie cinco questões sobre [tema] com gabarito comentado.
-# Revisão
+
+Revisão
 Monte um guia de revisão rápida sobre.
 
 
